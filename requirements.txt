@@ -1,0 +1,2 @@
+Familarity with python language ( Fundamentals of python)
+python IDE
